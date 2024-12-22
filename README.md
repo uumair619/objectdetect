@@ -1,16 +1,20 @@
 # objectdetect
 
-A new Flutter project.
+Object Detection is mobile object detection code. it uses tflite model to detect object which is on firebase cloud  as of task detail it will draw rectangle on objects like Mouse , keyboard , Mobile phone or any electronic device.
+also it has feture to use front camera or rare camera to use for detection.
+in Camere it also have option to zoom in and out.
+Also you can adjust brightness for camera View 
+Camere View class is to handle all camera related things.
+Object detector is a class responsable for downloading model from firebase and detecting object 
+tflite light model is only configure to use Nv21 images.
+
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Open this project in android studio and run on android
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Android Apk ](https://drive.google.com/file/d/1hQhNCcvtjxxUSwTR2B9yRo1FDcJ7B0Oq/view?usp=sharing)
+
