@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "137875210710",
+    "project_id": "object-detection-fbd37",
+    "storage_bucket": "object-detection-fbd37.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137875210710:android:0b6805fe1cc6ac02126477",
+        "android_client_info": {
+          "package_name": "com.umair.object"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG0ZK9yqstqhBMn-Ftbt3y1qaRquZIcUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137875210710:android:33b55b34e8a2ea01126477",
+        "android_client_info": {
+          "package_name": "com.umair.task.objectdetect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG0ZK9yqstqhBMn-Ftbt3y1qaRquZIcUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
